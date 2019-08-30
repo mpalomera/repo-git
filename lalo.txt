@@ -1,2 +1,12 @@
 Hola!!!
+<<<<<<< HEAD
 Hey soy el mejor
+=======
+blabla
+blasdf
+blaad
+cosa
+cosa
+Yo soy Sebastian
+Como estan todossss wuwuwuwuw
+>>>>>>> e195f4dfa9563a4133898b87e3c1989cad307a2b
